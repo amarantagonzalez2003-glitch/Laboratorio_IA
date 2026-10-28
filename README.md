@@ -1,1 +1,1 @@
-# Laboratorio_IA
+# Laboratorio_IA_Amaranta_Gonzalez
